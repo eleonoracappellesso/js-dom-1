@@ -1,0 +1,22 @@
+.debug {
+    border: 1px solid red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 30px auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.ai-center{
+    align-items: center;
+}
